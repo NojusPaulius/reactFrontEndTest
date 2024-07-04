@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactFrontEndTest/static/css/main.029a72f5.css",
+    "main.js": "/reactFrontEndTest/static/js/main.5ab05e56.js",
+    "static/media/layout9fail.png": "/reactFrontEndTest/static/media/layout9fail.b88bf901da2a641cb602.png",
+    "index.html": "/reactFrontEndTest/index.html",
+    "main.029a72f5.css.map": "/reactFrontEndTest/static/css/main.029a72f5.css.map",
+    "main.5ab05e56.js.map": "/reactFrontEndTest/static/js/main.5ab05e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029a72f5.css",
+    "static/js/main.5ab05e56.js"
+  ]
+}
