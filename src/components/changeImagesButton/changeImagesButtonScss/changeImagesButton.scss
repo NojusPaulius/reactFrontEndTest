@@ -1,0 +1,21 @@
+.layoutButton{
+    font-size: 1.4rem;
+    height: 4rem;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.image-container{
+    display: inline;
+
+    img{
+        width: 120px;
+        height: 120px;
+        margin: 15px;
+        border: 1px solid black;
+    }
+}
+

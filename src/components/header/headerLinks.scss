@@ -1,0 +1,27 @@
+a{
+    text-decoration: none !important;
+}
+
+.header-link{
+    margin-top: 0.5rem !important;
+    padding: 20px;
+    border-radius: 90px;
+
+    color: azure;
+    transition: background-color 0.4s;
+}
+
+.header-link:hover{
+    background-color: rgba(0, 0, 0, 0.5 );
+    cursor: pointer;
+    
+}
+
+
+@media only screen and (max-width: 725px) {
+    .header-link{
+        padding: 10px;
+        font-size: 30px !important;
+    }
+    
+  }

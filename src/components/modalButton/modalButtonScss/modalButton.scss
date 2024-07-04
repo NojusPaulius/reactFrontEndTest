@@ -1,0 +1,14 @@
+.mainButton{
+    background-image: url("../../../images/plus-circle-icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    // background-attachment: fixed;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 360px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
